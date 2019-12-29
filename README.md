@@ -4,7 +4,7 @@ Simple hello world app with lein and compojure. Postgres is also included since 
 
 ## Prerequisites
 
-[Docker]: https://www.docker.com/get-started
+[Docker](https://www.docker.com/get-started)
 
 ## Running
 
